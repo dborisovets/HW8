@@ -7,7 +7,7 @@ namespace HW8.Task2
         private string? _nation;
         private int _age;
         private string _name;
-        public string Name { get; set; } = "";
+        public string Name { get; set; }
         public int Experience
         {
             get => _experience;
